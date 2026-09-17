@@ -1,0 +1,2 @@
+Dashboard feature implemented.
+User dashboard with basic statistics added.
